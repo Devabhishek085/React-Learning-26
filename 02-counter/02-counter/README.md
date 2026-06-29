@@ -1,6 +1,12 @@
+# React Learning 2026 
 
-## Progress
-- Day 1
-  - React + Vite setup
-  - JSX & Components
-  - Counter App using useState
+This repository documents my React learning journey.
+
+## 📅 Progress
+
+### Day 1
+- React + Vite Setup
+- JSX & Components
+- Counter App using useState
+
+More days coming soon...
